@@ -1,0 +1,6 @@
+        store_label_col1 = tk.Label(root, text="Store Name", font="Helvetica 11 bold").grid(row=4, column=0, sticky=tk.W)
+        store_label_col2 = tk.Label(root, text="Progress", font="Helvetica 11 bold").grid(row=4, column=1)
+        store_label_col3 = tk.Label(root, text="Cost", font="Helvetica 11 bold").grid(row=4, column=2, padx=10)
+        store_label_col3 = tk.Label(root, text="Count", font="Helvetica 11 bold").grid(row=4, column=3)
+        store_label_col4 = tk.Label(root, text="Buy", font="Helvetica 11 bold").grid(row=4, column=4)
+        store_label_col5 = tk.Label(root, text="Unlock", font="Helvetica 11 bold").grid(row=4, column=5)
